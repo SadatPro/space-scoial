@@ -1,0 +1,7 @@
+{
+  "name": "Space - Source-First Social Platform",
+  "description": "A hybrid social platform combining Pinterest-style exploration, Twitter-style feeds, and channel-based messaging. Features AI-powered source detection and attribution.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
